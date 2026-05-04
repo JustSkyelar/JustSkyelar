@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-<br>- 🔭 I’m currently working on an own [Flimando](https://github.com/flimando) ITSM (currently closed source)<br>- 🌱 I’m currently learning TypeScript<br>- 📫 How to reach me: skye@flimando.com<br>- 😄 Pronouns: she/her
+<br>- 🔭 I’m currently working on an own [Flimando](https://github.com/flimando) ITSM (currently closed source)<br>- 🌱 Lately learning TypeScript<br>- 📫 You can reach out to me under: skye@flimando.com<br>- 😄 Pronouns: she/her
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skye@flimando.com) 
 
